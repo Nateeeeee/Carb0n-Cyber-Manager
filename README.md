@@ -10,15 +10,16 @@ Sistema para gerenciamento de cyber café / lan house.
 
 ```bash
 pip install -r docs/requirements.txt
-
+```
 ---
 
 ```bash
 cd servidor
 python server.py
+```
 
-## Iniciar o painel
+## Como iniciar o painel
 ```bash
 cd painel
 python main.py
-
+```
