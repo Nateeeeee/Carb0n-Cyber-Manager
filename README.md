@@ -5,11 +5,12 @@ Sistema para gerenciamento de cyber café / lan house.
 ---
 
 ## Dependencias
-Python 3.13.5,
-Flask,
-Pillow,
-SQLAlchemy,
-
+```
+Python 3.13.5
+Flask
+Pillow
+SQLAlchemy
+```
 ---
 
 ## Como rodar o servidor
