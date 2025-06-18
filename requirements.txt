@@ -1,3 +1,6 @@
 flask
 flask_sqlalchemy
 flask_cors
+customtkinter
+requests
+pillow
